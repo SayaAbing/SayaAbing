@@ -7,7 +7,7 @@ SAYA ABING</h1>
 <br>
     <a href="https://instagram.com/aabinggg" target="blank"><img src="https://img.shields.io/badge/Aabinggg-30302f?style=flat&logo=instagram" /></a>
 
-![Profile Dilihat](https://komarev.com/ghpvc/?username=apisuserbot&color=blue&style=flat-square&label=Profile+Dilihat)
+![Profile Dilihat](https://komarev.com/ghpvc/?username=SayaAbing&color=blue&style=flat-square&label=Profile+Dilihat)
 ### Statistik
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=SayaAbing&theme=react&show_icons=true&count_private=true">
