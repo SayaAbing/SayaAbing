@@ -3,7 +3,7 @@
 SAYA ABING</h1>
 
 ## 📲 Kontak Developer 
-[![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/sayaabing) 
+[![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/akuab1ng) 
 <br>
     <a href="https://instagram.com/aabinggg" target="blank"><img src="https://img.shields.io/badge/Aabinggg-30302f?style=flat&logo=instagram" /></a>
 
